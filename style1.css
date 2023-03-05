@@ -1,0 +1,176 @@
+::-webkit-scrollbar {
+    width: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chatbot {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    justify-content: centre;
+    overflow: hidden;
+}
+
+#main {
+    width: 85vw;
+    height: 85vh;
+    max-width: 540px;
+    box-shadow: inset 0 0 10px 4px #1116;
+    display: none;
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+}
+
+
+/*
+.main {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 30%;
+    height: 90%;
+    background-color: rgb(255, 255, 255);
+    display: none;
+    border-color: rgb(0, 0, 0);
+    border-radius: 15%;
+    border-style: groove;
+    border-radius: 3%;
+}
+*/
+
+#top-menu {
+    display: flex;
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+    background: #1c1c46;
+    color: #fff;
+    padding: 8px;
+    text-shadow: 1px 1px 4px #111;
+    margin-bottom: 8px;
+}
+
+.close {
+    text-align: center;
+    background: #1c1c46;
+    color: #fff;
+    text-shadow: 1px 1px 4px #111;
+    float: right
+}
+
+#msg-area {
+    height: 82%;
+    padding: 0 12px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+#bot {
+    width: 50px;
+    height: 50px;
+    background: url('C:/Users/HP/Documents/smc.jpg');
+    background-size: 100%;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+#robot {
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#input {
+    height: 7%;
+    min-height: 42px;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin: 0px 16px;
+    border-radius: 32px;
+    background: linear-gradient(#ececee 50%, #1c1f46 50%);
+    box-shadow: inset 0 1px 0 #777;
+}
+
+#text {
+    outline: none;
+    font-size: 20px;
+    background-color: #ececee;
+    color: #333;
+    border-radius: 32px 0 32px 32px;
+    padding: 0 16px;
+    border: solid 1px #777;
+    border-right: none;
+}
+
+#send {
+    outline: none;
+    font-size: 20px;
+    color: #eee;
+    background: #1c1f46;
+    border: none;
+    border-radius: 32px;
+    transition-duration: 0.2s;
+}
+
+#send:active {
+    font-size: 16px;
+}
+
+.left,
+.right {
+    font-size: 18px;
+    font-family: monospace;
+    display: inline-block;
+    width: auto;
+    max-width: 60%;
+    padding: 14px;
+    word-wrap: break-word;
+    margin: 8px 14px;
+}
+
+.left {
+    color: #000;
+    background: #b3bfca;
+    border-radius: 0 16px 16px 16px;
+}
+
+.right {
+    color: #fff;
+    background: #1c1f46;
+    border-radius: 16px 16px 0 16px;
+    float: right;
+}
+
+.Con1,
+.Con2 {
+    width: 100%;
+    display: inline-block;
+}
+
+.toggle-chatbot {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    padding: 1px;
+    width: 60px;
+    border: 4px double #121312;
+    border-radius: 100%;
+    box-shadow: 10px 1px 5px #aaaaaa;
+}
