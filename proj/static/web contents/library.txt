@@ -1,0 +1,1071 @@
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
+
+ Housed in a two storied building, the Stella Maris College Library is fully automated with a wide collection of the latest books, periodicals and CDROMs, which is expanded and updated every year. The library, which has an open access system, is committed to using technology in efficient and innovative ways. The Library functions in a networked environment and maintains three servers and over 60 PCs to support its various operations and services. Electronic resources such as EBSCO host, NList, Sage online journals and American Economic Association Journals are made available to all members of the library via the Internet and
+ the College Intranet. The library also hosts DSpace, a digital repository of research which is the Institutional repository of the College. It contains published articles, syllabi, conference papers, question papers, theses and other related documents, with full text wherever possible. Faculty and researchers may contribute their own publications for uploading in DSpace.
+ The top floor of the building houses the Postgraduate Library and the research cubicles which are equipped with computers with the necessary software.
+ The mezzanine floor also houses “Stellarchives”, the College archives, which collects, preserves and maintains the historical evidence of the institution’s heritage. It contains photographs, manuscripts, artifacts and ephemerals, some of which date back to the inception of the College. It also houses rare books, and books and articles authored by faculty and former students of the college. Ready reference books like encyclopaedias, yearbooks, almanacs, and dictionaries etc. are also available on the mezzanine floor which also has four computers with headphones to view subject CDs and videos.
+ The air-conditioned Audio-Visual room in the library is used for orientation programmes, seminars and programmes on research methodology and training in the use of various databases.
+ One of the best practices of the General Library is the conduct of the Publishers Exhibtion which is an annual feature aimed at bringing all the book publishers and dealers on one platform through a book exhibition.
+ Newly added books are displayed every week for more visibility and provision is available for online reservation of these new books.
+ Besides the main library, which houses the bulk of the print collection, there are departmental libraries which cater to the needs of their specific departments.
+ Stella Maris College Library was started in the present campus in 1962, which was initially in a room (M-01) of the main building with book racks on one side and a counter on the other side. Seven years after its humble beginning, Sr. Maryji was given charge of the library. The impressive double storied building which hosts the library was the result of her vision. The fruit of five years of studying other reputed libraries, the present building was inaugurated in 1975 when Sr. Irene Mathias was the principal of the college. When the government mandated all colleges to have
+ a Librarian with a master's degree in Library Science, Ms. Gita Balachandran became the Librarian of Stella Maris College in 1978. The library has evolved over the years in so many ways, it has become much more user friendly, yet it manages to maintain the charm of the good old days. The Stella Maris College Library is a pioneer in several ways - automation of the entire library was done as early as 2003. It was the first to introduce bar coding among the city colleges. The Madras University Library followed suit later. Today one enters the library, scan the
+ ID's, breeze past the several reference books to reach the computer section to find the books, journals, research papers through online catalogue such as OPAC - as if it is the most natural thing to do. Browsing through racks and racks of books seems rather tedious, when one can find all that they need at just the click of a mouse. That is how much the library has changed. The postgraduate library has a whole gamut of resources-books, journals, doctoral theses of the students and faculty. It has been revamped with new modular research cubicles equipped with computers and has
+ ben air conditioned. SMC Library is an important intellectual resource of the College which helps the College fraternity to fulfill the curriculum needs and to promote research. The College Library functions as an auxiliary to all the departments in carrying out teaching programmes effectively and efficiently. The library is a physical space with rooms full of books .and machines-printers, copiers, and computers. With an ever-changing landscape of digital technology and easy access to information, the College Library has its own identification within the College campus. After serving the college for 32 long years, Ms. Gita Balachandran retired in 2010 and
+ Dr. Mahalakshmi took over as the second librarian of this prestigious institution from 2011.
+ The College Library is committed to a wide-ranging vision of keeping the College community abreast with the latest developments in various fields and to fulfil their Information needs which would hone the creative and researching talent of the College fraternity.
+ The carpet area of the Library is about 1560 sq. metre.
+ Monday - Saturday : 7:30 a.m. - 6:00 p.m.
+ The Library is closed on Sundays and other public holidays.
+ The Library has seating for 400 users.
+ Nine staff are available in the library who cater to the information needs of the College community.
+ Librarian : Dr. M. Mahalakshmi
+ All the students,faculty and administrative staff of the College are the members of the Library.Apart from offering membership for students ,faculty and the administrative staff the SMC Library also offers membership for research scholars and alumnae on payment of a nominal fee. The SMC Library also extends its membership to retired faculty and visitors.
+ Method of Classification - Dewey Decimal Classification
+ A separate theses section is available in the PG Library which holds M.Phil and Ph.D. theses.
+ The General Library has a separate section for Civil Services Examinations and books forUGC NET. The Civil Services section has books on History, Public Administration, Economics, Commerce and General Studies and is updated with latest syllabus of CSAT.
+ The SMC Library subscribes to electronic resources like EBSCO, N-List, Sage Online Journals and American Economic Association Journals.
+ An air conditioned enclosure for the computer systems is available both in UG and PG library
+ Every Periodical / Journal subscribed in the Library has been indexed in accordance with the courses offered in various disciplines.
+ The air-conditioned Audio-Visual Room in the Library can be used for orientation programmes, seminars and programmes and training in the use of various databases.
+ The College has become a member of the Bookshare, an online community that enables students with visual and other print disabilities to legally share and download scanned academic resources for which computers with JAWS and NVDA softwares are made available.
+ The entire Library collection has been RFID tagged.
+ Students from economically weaker sections of the society are offered Part time jobs in the library where they can work for one hour and get paid. Five hours per week.
+ The Library follows the herbal pest control procedure using Lemongrass oil
+ Displays on internationally acclaimed days, “Meet the Author “programme, Library Membership drives of other libraries are all part of Information literacy programmes.
+ Daily news is displayed in the notice board just outside the Library. Apart from this, there are also displays available in the various points in the library like
+ The General Library is Institutional members of the American Centre Library and the INFLIBNET
+ The Library hosts DSpace , a digital repository which provides access to syllabi, academic papers presented at national and international fora, question papers, course schedule etc.
+ Inter Library Loan is encouraged between colleges which are affiliated to University of Madras.
+ Internet browsing facility is available to the College community.
+ The Online Public Access Catalogue can be accessed anywhere from the College campus via the Intranet.
+ http://192.168.3.99
+ The SMC Library follows the open access system
+ Photocopying, Printing and Scanning are done in the Library at a nominal cost .
+ Private cubicles with internet access are available in the PG library for research scholars
+ Users can recommend books and journals by using prescribed book / journal recommendation form available in the OPAC. They can also drop their suggestions in the suggestions box provided in the UG Library.
+ Every student is required to attend an Orientation Programme “Know Your Library “ immediately after enrolment.
+ Wi Fi facilities are available in the Library
+
+ The automation of the Library was done as early as 2003. The software used in the Library is e-BLIS . All the sections of the Library are fully automated.e-BLIS has been installed with the following main modules for the library’sIn-house operations.
+ The Stella Maris College Library contains thousands of books, periodicals, CDs and DVDs and other electronic reading materials. It is a challenge for the librarian to manage such type of huge collection. Using RFID (Radio Frequency IDentification) technology for library management, is very comfortable and convenient. Using RFID in libraries saves library staff's time by automatizing their tasks.
+ A RFID library management system consists of books, each attached with an RFID tag, RFID reader, computer network and software. Hence in SMC Library adopting RFID technology for Library Automation started in December 2017 and the facility was inaugurated in September 2018 . All the operations and services of the SMC Library have been automated using RFID. RFID is one of the latest technologies used in libraries for theft detection which also eases Circulation process and Inventory control. Radio Frequency identification uses wireless radio communication to uniquely identify objects and is one of the fastest growing automatic data collection technologies.
+ The SMC Library has introduced self-service "check-in" and "checkout" by use of the Self-Kiosk machine that helps easy issue and return of the books. A Drop-box has been made available outside the Library opposite to the big OAT in which the college community can drop its borrowed books from 7.30am to 7.30pm without having to come to the Library. The security gates at the entrance trigger an alarm if a user walks away without getting the books issued against her name.
+ https://www.free-ebooks.net/
+ https://www.gutenberg.org/
+ https://www.goodreads.com/ebooks
+ https://bookboon.com
+ http://www.sparknotes.com/sparknotes/
+ http://www.ugc.ac.in/ugc_notices.aspx
+ https://www.aeaweb.org/journals/
+ http://cl.uwpress.org/
+ http://www.ijdb.ehu.es/web/
+ https://doaj.org/
+ http://www.epw.in/epw/user/userindex.jsp
+ https://academic.oup.com/eic
+ https://www.highwirepress.com/
+ http://www.ias.ac.in/
+ http://www.indianjournals.com/ijor.aspx
+ http://journals.sagepub.com/
+ https://search.ebscohost.com ( Library subscription)
+ http://nlist.inflibnet.ac.in ( Library subscription)
+ http://www.rsc.org
+ http://about.scienceopen.com/
+ http://agris.fao.org
+ http://academic.research.microsoft.com/
+ https://www.base-search.net/about/en/
+ www.questia.com( Library subscription)
+ http://shodhganga.inflibnet.ac.in
+ https://oatd.org/
+ http://www.openthesis.org
+ https://www.ipaustralia.gov.au/
+ https://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html
+ https://www.ipos.gov.sg/
+ https://www.iponz.govt.nz/
+ https://ipindia.gov.in/
+ ipd.gov.hk/eng/home.html
+ https://patft.uspto.gov/
+ https://www.gov.uk/government/organisations/intellectual-property-office
+ https://worldwide.espacenet.com/
+ https://www.myipo.gov.my/en/home/
+ https://www.wipo.int/portal/en/
+ https://www.thesaurus.com/
+ https://www.acronymfinder.com/
+ https://www.merriam-webster.com/
+ https://www.onelook.com/
+ https://www.encyclopedia.com/
+ https://scitechdaily.com/
+ https://www.smh.com.au/
+ https://www.detroitnews.com/
+ https://www.washingtontimes.com/
+ https://www.thehindu.com/
+ https://indianexpress.com/
+ https://www.ugc.ac.in/
+ https://main.sci.gov.in/collegium-resolutions
+ http://www.planningcommission.nic.in/
+ https://www.india.gov.in/
+ https://www.parliamentofindia.nic.in/
+ https://www.tnrajbhavan.gov.in/Default.html
+ The Library hosts DSpace , a digital repository which provided access to syllabi, academic papers presented at national and international fora, question papers, course schedule,synopses of theses and other research related documents with full text wherever possible."The Information relevant to the Students and Faculty such as course schedule will be kept updated for the current semester."
+ LINK TO DSPACE
+ The Library has subscribed the plagiarism software "URKUND" using which the Librarian and the Research supervisors can check plagiarism in a documents to be submitted for the conferences and seminar and in Journals. The software generates a report showing the similarities with other documents.
+ LINK TO NATIONAL DIGITAL LIBRARY OF INDIA
+ LINK TO SMC - IRINS
+ There exists a strong Library Advisory Committee which consists of the Principal, Vice Principals, IQAC Coordinator, Faculty and Students Representatives apart from the Librarian. __________________________________________________ Library Advisory Committee - Minutes - 2015 Library Advisory Committee - Minutes - 2016 Library Advisory Committee - Minutes - 2017 Library Advisory Committee - Minutes - 2018 Library Advisory Committee - Minutes - 2019 Library Advisory Committee - Minutes - 2020 Library Advisory Committee - Minutes - 2021 ________________________________________________
+ SWAYAM or Study Webs of Active –Learning for Young Aspiring Minds programme of Ministry of Human Resource Development, Government of India, Professors of centrally funded institutions like IITs, IIMs, central universities will offer online courses to citizens of India
+ SWAYAM is an instrument for self-actualisation providing opportunities for a life-long learning. Here learner can choose from hundreds of courses , virtually every course that is taught at the university / college / school level and these shall be offered by the best of teachers in India and elsewhere.
+ URL : Swayam Platform
+ National Programme on Technology Enhanced Learning (NPTEL) is a joint initiative of the seven IITs and IISc.which offers web and video courses on various disciplines like Engineering, Science and Humanities.
+ URL : NPTEL
+ To inculcate modern technology into the curriculum, our institution has introduced LMS (Learning Management System) into the teaching-learning process. Moodle is our learning management system that provides a platform for e-learning through which courses are offered for students. The students would be provided with the login credentials Learning Management System (LMS) for accessing the courses online.
