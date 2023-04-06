@@ -1,0 +1,246 @@
+:root {
+    --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    --msger-bg: #fff;
+    --border: 2px solid #ddd;
+    --left-msg-bg: #ececec;
+    --right-msg-bg: #4747aa;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: var(--body-bg);
+    font-family: Helvetica, sans-serif;
+}
+
+.chatbot-msger {
+    display: none;
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    width: 100%;
+    height: 80%;
+    max-width: 500px;
+}
+
+.msger {
+    display: block;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 867px;
+    margin: 25px 10px;
+    height: calc(100% - 50px);
+    border: var(--border);
+    border-radius: 5px;
+    background: var(--msger-bg);
+    box-shadow: 0 15px 15px -5px rgba(0, 0, 0, 0.2);
+}
+
+.msger-header {
+    /* display: flex; */
+    font-size: medium;
+    justify-content: space-between;
+    padding: 2px;
+    height: 8%;
+    text-align: center;
+    border-bottom: var(--border);
+    background: #eee;
+    color: #666;
+}
+
+.msger-chat {
+    height: 80%;
+    overflow: scroll;
+    padding: 5px;
+}
+
+.msger-chat::-webkit-scrollbar {
+    width: 0px;
+}
+
+.msger-chat::-webkit-scrollbar-track {
+    background: #ddd;
+}
+
+.msger-chat::-webkit-scrollbar-thumb {
+    background: #bdbdbd;
+}
+
+.msg {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 5px;
+}
+
+.msg-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 5px;
+    background: #ddd;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.msg-bubble {
+    max-width: 50%;
+    padding: 5px;
+    border-radius: 15px;
+    background: var(--left-msg-bg);
+}
+
+.msg-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.msg-info-name {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.msg-info-time {
+    font-size: 0.85em;
+}
+
+.left-msg .msg-bubble {
+    border-bottom-left-radius: 0;
+}
+
+.right-msg {
+    flex-direction: row-reverse;
+}
+
+.right-msg .msg-bubble {
+    background: var(--right-msg-bg);
+    color: #fff;
+    border-bottom-right-radius: 0;
+}
+
+.right-msg .msg-img {
+    margin: 0 0 0 5px;
+}
+
+.msger-inputarea {
+    display: flex;
+    height: 13%;
+    padding: 10px;
+    border-top: var(--border);
+    background: #eee;
+}
+
+.msger-inputarea * {
+    padding: 1px;
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+}
+
+.msger-input {
+    flex: 1;
+    background: #ddd;
+}
+
+.msger-send-btn {
+    margin-left: 5px;
+    background: rgb(71, 71, 170);
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.23s;
+}
+
+.msger-send-btn:hover {
+    color: black !important;
+    background: white;
+}
+
+.msger-chat {
+    background-color: #fcfcfe;
+}
+
+.feedbacks-info {
+    display: flex;
+}
+
+.feedbacks-info-yes,
+.feedbacks-info-no {
+    margin-left: 5px;
+    background: rgb(71, 71, 170);
+    padding: 2%;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 0.23s;
+    font-family: Cambria;
+    font-style: oblique;
+    align-content: center;
+}
+
+.feedbacks-info-yes:hover,
+.feedbacks-info-no:hover {
+    color: black !important;
+    background: white;
+    font-size: 110%;
+}
+
+.feedbacks {
+    font-family: Cambria;
+    margin-left: 15%;
+}
+
+.toggle-chatbot {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    padding: 1px;
+    width: 60px;
+    border: 4px double #121312;
+    border-radius: 100%;
+    box-shadow: 10px 1px 5px #aaaaaa;
+    transition: background 0.20s;
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    transform: translate3d(0, 0, 0);
+    perspective: 1000px;
+}
+
+.toggle-chatbot:hover {
+    bottom: 4%;
+    border: 4px double #121312;
+}
+
+@keyframes shake {
+    10%,
+    90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%,
+    80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%,
+    50%,
+    70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%,
+    60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
